@@ -62,6 +62,7 @@ sections:
       styles:
         self:
           opacity: 100
+      url: /images/carla.jpg
     styles:
       self:
         height: auto
