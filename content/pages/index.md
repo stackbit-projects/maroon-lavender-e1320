@@ -462,7 +462,8 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
+          "It's great to see someone taking acion while still maintaining a
+          sustainable fish supply to home cooks."
         name: Hugh Saturation
         title: Creative at Acme
         image:
@@ -526,7 +527,8 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
+          "It's great to see someone taking acion while still maintaining a
+          sustainable fish supply to home cooks."
         name: Hugh Saturation
         title: Creative at Acme
         image:
@@ -563,7 +565,6 @@ sections:
       subtitle:
         textAlign: center
     type: TestimonialsSection
-    title: Testimonials
     subtitle: What our customers say about us
   - type: ContactSection
     colors: colors-f
