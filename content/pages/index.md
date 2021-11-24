@@ -474,7 +474,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: left
+        justifyContent: center
         borderRadius: none
         borderWidth: 0
         borderStyle: none
