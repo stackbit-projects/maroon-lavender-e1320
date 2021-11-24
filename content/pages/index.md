@@ -438,7 +438,7 @@ sections:
         textAlign: left
     type: FaqSection
     subtitle: We are here to help
-  - colors: colors-f
+  - colors: colors-a
     elementId: ''
     title: Need Answers?
     items:
