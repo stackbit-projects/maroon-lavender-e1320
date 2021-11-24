@@ -424,7 +424,7 @@ sections:
           - pt-12
           - pb-12
           - pl-11
-          - pr-4
+          - pr-11
         justifyContent: left
         borderRadius: none
         borderWidth: 0
