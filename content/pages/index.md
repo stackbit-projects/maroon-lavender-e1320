@@ -521,7 +521,7 @@ sections:
               - mb-0
             flexDirection: row-reverse
           quote:
-            textAlign: left
+            textAlign: center
           name:
             textAlign: left
           title:
