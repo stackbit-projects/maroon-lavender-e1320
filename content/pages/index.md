@@ -462,7 +462,7 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "It's great to see someone taking acion while still maintaining a sustainable "
+          "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
