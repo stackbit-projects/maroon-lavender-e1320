@@ -525,7 +525,7 @@ sections:
           name:
             textAlign: center
           title:
-            textAlign: left
+            textAlign: center
       - quote: >
           "It's great to see someone taking acion while still maintaining a
           sustainable fish supply to home cooks."
