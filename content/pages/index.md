@@ -437,6 +437,7 @@ sections:
         fontStyle: normal
         textAlign: center
     type: FaqSection
+    subtitle: We are here to help
   - elementId: ''
     colors: colors-h
     testimonials:
