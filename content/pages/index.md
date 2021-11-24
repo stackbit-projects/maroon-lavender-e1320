@@ -443,7 +443,7 @@ sections:
       - quote: >
           "Very professional team. I enjoyed working with the team at
           startup.io."
-        name: Carla Rogers
+        name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
