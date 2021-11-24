@@ -463,7 +463,7 @@ sections:
             textAlign: left
       - quote: >
           "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
-        name: Johnna Doe
+        name: Hugh Saturation
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
