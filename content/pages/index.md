@@ -462,7 +462,7 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "It's great to see someone taking acion while still "
+          "It's great to see someone taking acion while still maintainin"
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
