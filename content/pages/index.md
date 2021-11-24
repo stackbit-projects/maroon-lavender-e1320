@@ -565,6 +565,7 @@ sections:
       subtitle:
         textAlign: center
     type: TestimonialsSection
+  
   - type: ContactSection
     colors: colors-f
     title: Get early access
