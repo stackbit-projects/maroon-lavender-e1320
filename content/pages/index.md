@@ -431,11 +431,11 @@ sections:
         borderStyle: none
         borderColor: border-dark
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
         fontWeight: '400'
         fontStyle: normal
-        textAlign: center
+        textAlign: left
     type: FaqSection
     subtitle: We are here to help
   - elementId: ''
