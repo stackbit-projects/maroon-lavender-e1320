@@ -414,7 +414,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: auto
         margin:
           - mt-0
           - mb-0
