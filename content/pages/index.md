@@ -58,7 +58,6 @@ sections:
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
-      url: 'https://assets.stackbit.com/components/images/default/bg.jpg'
       altText: Product Marketing Manager Quote
       styles:
         self:
