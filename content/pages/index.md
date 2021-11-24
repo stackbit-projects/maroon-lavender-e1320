@@ -503,7 +503,7 @@ sections:
     title: Testimonials
     subtitle: What our customers say about us
   - elementId: ''
-    colors: colors-g
+    colors: colors-f
     testimonials:
       - quote: >
           "Very professional team. I loved working with the people at
