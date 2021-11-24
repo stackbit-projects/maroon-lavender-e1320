@@ -460,7 +460,7 @@ sections:
           name:
             textAlign: left
           title:
-            textAlign: center
+            textAlign: left
     styles:
       self:
         height: auto
