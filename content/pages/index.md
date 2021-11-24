@@ -423,7 +423,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-11
+          - pl-28
           - pr-11
         justifyContent: left
         borderRadius: none
