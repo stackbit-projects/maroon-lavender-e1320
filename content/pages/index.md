@@ -604,11 +604,11 @@ sections:
               - mb-0
             flexDirection: row
           quote:
-            textAlign: left
+            textAlign: center
           name:
-            textAlign: left
+            textAlign: center
           title:
-            textAlign: left
+            textAlign: center
     styles:
       self:
         height: auto
