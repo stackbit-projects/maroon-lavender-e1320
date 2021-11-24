@@ -603,7 +603,7 @@ sections:
             margin:
               - mt-0
               - mb-0
-            flexDirection: row
+            flexDirection: col
           quote:
             textAlign: center
           name:
