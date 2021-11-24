@@ -438,7 +438,7 @@ sections:
         textAlign: center
     type: FaqSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-h
     testimonials:
       - quote: >
           ## Such a great experience to be using this product. It really helped
