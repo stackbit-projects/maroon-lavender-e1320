@@ -461,6 +461,8 @@ sections:
             textAlign: left
           title:
             textAlign: center
+          title:
+            textAlign: center
     styles:
       self:
         height: auto
