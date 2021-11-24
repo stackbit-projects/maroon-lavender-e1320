@@ -584,11 +584,11 @@ sections:
               - mb-0
             flexDirection: row
           quote:
-            textAlign: left
+            textAlign: center
           name:
-            textAlign: left
+            textAlign: center
           title:
-            textAlign: left
+            textAlign: center
       - quote: >
           "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
         name: Hugh Saturation
