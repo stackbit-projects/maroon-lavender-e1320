@@ -477,7 +477,7 @@ sections:
       title:
         textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
     type: TestimonialsSection
     title: Testimonials
     subtitle: What our customers say about us
