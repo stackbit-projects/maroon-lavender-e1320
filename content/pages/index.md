@@ -464,7 +464,7 @@ sections:
       - quote: >
           "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
         name: Hugh Saturation
-        title: Product Marketing Manager at Acme
+        title: Creative at Acme
         image:
           type: ImageBlock
           url: /images/carla.jpg
