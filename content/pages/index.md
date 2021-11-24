@@ -441,7 +441,7 @@ sections:
     colors: colors-h
     testimonials:
       - quote: >
-          "Very professional team. I enjoyed working with the team at
+          "Very professional team. I enjoyed working with the people at
           startup.io."
         name: Johnna Doe
         title: Product Marketing Manager at Acme
