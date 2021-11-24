@@ -461,6 +461,27 @@ sections:
             textAlign: left
           title:
             textAlign: left
+      - quote: >
+          "Very professional team. I loved working with the people at
+          startup.io."
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/carla.jpg
+          altText: Photo of Johnna Doe
+        styles:
+          self:
+            margin:
+              - mt-0
+              - mb-0
+            flexDirection: row
+          quote:
+            textAlign: left
+          name:
+            textAlign: left
+          title:
+            textAlign: left
     styles:
       self:
         height: auto
