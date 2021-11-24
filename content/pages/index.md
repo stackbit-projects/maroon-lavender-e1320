@@ -544,7 +544,7 @@ sections:
           quote:
             textAlign: center
           name:
-            textAlign: left
+            textAlign: center
           title:
             textAlign: left
     styles:
