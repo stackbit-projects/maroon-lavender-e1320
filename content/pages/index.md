@@ -462,8 +462,7 @@ sections:
           title:
             textAlign: left
       - quote: >
-          "Very professional team. I loved working with the people at
-          startup.io."
+          "It's great to see someone "
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         image:
