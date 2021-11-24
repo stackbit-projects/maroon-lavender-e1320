@@ -440,9 +440,8 @@ sections:
   - elementId: ''
     colors: colors-h
     testimonials:
-      - quote: >
-          ## Such a great experience to be using this product. It really helped
-          with what I needed help with.
+      - quote: |
+          Very professional team. I enjoyed working with the team at startup.io.
         name: Carla Rogers
         title: Happy customer
         image:
