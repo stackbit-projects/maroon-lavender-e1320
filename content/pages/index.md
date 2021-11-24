@@ -479,6 +479,7 @@ sections:
       subtitle:
         textAlign: left
     type: TestimonialsSection
+    title: Testimonials
   - type: ContactSection
     colors: colors-f
     title: Get early access
