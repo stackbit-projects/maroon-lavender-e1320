@@ -444,7 +444,7 @@ sections:
           "Very professional team. I enjoyed working with the team at
           startup.io."
         name: Carla Rogers
-        title: Happy customer
+        title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
           url: /images/carla.jpg
