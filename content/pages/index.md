@@ -566,7 +566,7 @@ sections:
         textAlign: center
     type: TestimonialsSection
   - elementId: ''
-    colors: colors-h
+    colors: colors-a
     testimonials:
       - quote: >
           "Very professional team. I loved working with the people at
@@ -590,7 +590,8 @@ sections:
           title:
             textAlign: center
       - quote: >
-          "It's great to see someone taking acion while still maintaining a sustainable fish supply to home cooks."
+          "It's great to see someone taking acion while still maintaining a
+          sustainable fish supply to home cooks."
         name: Hugh Saturation
         title: Creative at Acme
         image:
