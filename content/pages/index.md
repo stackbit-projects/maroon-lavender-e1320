@@ -546,7 +546,7 @@ sections:
           name:
             textAlign: center
           title:
-            textAlign: left
+            textAlign: center
     styles:
       self:
         height: auto
