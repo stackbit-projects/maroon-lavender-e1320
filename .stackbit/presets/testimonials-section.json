@@ -4,7 +4,7 @@
             "label": "Light image bottom, with title",
             "thumbnail": "images/testimonials-light1.png",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-h",
                 "title": "Testimonials",
                 "subtitle": "What our customers say about us",
                 "testimonials": [
