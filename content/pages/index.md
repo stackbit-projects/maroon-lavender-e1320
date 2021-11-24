@@ -448,7 +448,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/carla.jpg
-          altText: Photo of Isabelle Parks
+          altText: Photo of Johnna Doe
         styles:
           self:
             margin:
